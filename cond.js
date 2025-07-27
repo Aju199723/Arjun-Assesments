@@ -16,4 +16,4 @@ console.log("Amount is: " + amount); // Amount is: 1000
 const pi = 3.14
 //const pi = 3.14 // This will cause an error because pi is a constant
 console.log("Value of pi is: " + pi); // Value of pi is: 3.14
-console.log(typeof pi); // number
+console.log(typeof pi); // numbers
