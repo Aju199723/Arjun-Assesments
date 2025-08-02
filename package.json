@@ -1,0 +1,14 @@
+{
+  "name": "jsprogram",
+  "version": "1.0.0",
+  "main": "callback.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
